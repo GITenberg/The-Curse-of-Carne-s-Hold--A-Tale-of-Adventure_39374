@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39374#The-Curse-of-Carne-s-Hold--A-Tale-of-Adventure
 gutenberg_issued: '2012-04-04'
 gutenberg_type: Text
 identifiers:
